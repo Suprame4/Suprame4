@@ -1,5 +1,5 @@
 Developing a passion for development, and growing with each opportunity!
 
-I am currently an aspiring software development engineer with skills in the following: JavaScript, Python, Java, MySQL, PostgreSQL and Tableau. 
+I am currently a software development engineer and student with skills in the following: JavaScript, Python, Java, MySQL, PostgreSQL and Tableau. 
 
 
